@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="live_feed=true" extends="incident" label="Scoped Incident App Table" max_length="40" name="x_170565_scope_inc_scoped_incident_app_table" type="collection"/>
 </database>
